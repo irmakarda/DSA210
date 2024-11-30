@@ -26,7 +26,7 @@ Each participant's data is aggregated on a daily basis, ensuring consistency and
 
 ## Techniques and Tools
 - **Python**: For data analysis and visualization
-- **Libraries**: Pandas, Matplotlib, Seaborn, Scikit-learn
+- **Libraries**: Pandas, Matplotlib, Seaborn
 - **GitHub**: To maintain version control and share analysis scripts
 
 ## Project Plan
@@ -43,10 +43,10 @@ Each participant's data is aggregated on a daily basis, ensuring consistency and
 
 ## Repository Information
 This repository will include:
-- **Dataset**: Processed data (raw data is not shared for privacy reasons).
+- **Dataset**: Processed data.
 - **Scripts**: Python scripts for data cleaning, analysis, and visualization.
 - **Documentation**: Reports and visual summaries of findings.
 
----
+
 
 
