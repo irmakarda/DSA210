@@ -1,15 +1,15 @@
 # Personal Data Analysis Project
 
 ## Project Description
-This project aims to analyze daily habits and health metrics of three individuals (myself and two family members) to uncover correlations and patterns. The data is collected using Apple Watch and iPhone devices, and the analysis will provide insights into the relationships between variables such as:
-- Daily coffee consumption
-- Hours of sleep
-- Exercise duration (in minutes)
+This project aims to analyze daily habits and health metrics of three individuals (myself and two family members) to uncover correlations and patterns. The data is collected using Apple Watch and iPhone devices of each person, and the analysis will provide insights into the relationships between variables such as:
+- Daily coffee consumption(cups)
+- Daily sleep duration (in hours)
+- Exercise duration (in hours)
 - Screen time (in hours)
 - Average resting heart rate
 
 ## Motivation
-The purpose of this project is to gain a deeper understanding of how lifestyle habits interact with health indicators. By analyzing this data, I hope to uncover actionable insights for improving daily routines and overall well-being.
+The purpose of this project is to understand how lifestyle habits interact with health indicators. By analyzing this data, I hope to find useful insights that can help improve daily routines and overall well-being.
 
 ## Data Source
 The data is collected manually from:
