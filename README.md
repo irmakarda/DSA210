@@ -6,8 +6,6 @@ This project aims to analyze daily habits and health metrics of three individual
 - Daily sleep duration (in hours)
 - Exercise duration (in hours)
 - Screen time (in hours)
-- Average resting heart rate
-
 ## Motivation
 The purpose of this project is to understand how lifestyle habits interact with health indicators. By analyzing this data, I hope to find useful insights that can help improve daily routines and overall well-being.
 
