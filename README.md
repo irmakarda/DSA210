@@ -4,7 +4,7 @@
 This project aims to analyze daily habits and health metrics of three individuals (myself and two family members) to uncover correlations and patterns. The data is collected using Apple Watch and iPhone devices of each person, and the analysis will provide insights into the relationships between variables such as:
 - Daily coffee consumption(cups)
 - Daily sleep duration (in hours)
-- Exercise duration (in hours)
+- Daily walking distance (in steps)
 - Screen time (in hours)
 ## Motivation
 The purpose of this project is to understand how lifestyle habits interact with health indicators. By analyzing this data, I hope to find useful insights that can help improve daily routines and overall well-being.
